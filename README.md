@@ -1,6 +1,6 @@
 # Fix Docker NFS Permissions for MacOS
 
-Give permision to Mount `/Users` and `/Application/MAMP/htdocs`
+Give sufficient permissions for mounting `/Users` and `/Application/MAMP/htdocs`
 
 ## Step 1 - Setup 
 Setup Docker for Mac with native NFS: 
