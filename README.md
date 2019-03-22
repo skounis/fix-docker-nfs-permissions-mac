@@ -42,5 +42,8 @@ You should end up with the files:
 nfs.server.mount.require_resv_port = 0
 ```
 
-See
+## References
+
+- https://github.com/openeuropa/openeuropa/blob/master/docs/starting/tooling.md#using-docker-on-macos
 - https://forums.docker.com/t/nfs-native-support/48531/3
+- https://medium.com/@sean.handley/how-to-set-up-docker-for-mac-with-native-nfs-145151458adc
